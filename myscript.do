@@ -1,6 +1,7 @@
 *Purpose: Teaching
 *Owner: Leah
 *Date: Feb 2025
+*Added to git for version control
 
 import excel "/Users/amye/Library/CloudStorage/OneDrive-Personal/1. Leah's PhD/Quant analysis-Manar/Data for practice.xlsx", sheet("Data") firstrow clear
 

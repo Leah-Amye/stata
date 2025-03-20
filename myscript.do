@@ -1,3 +1,7 @@
+*Purpose: Teaching
+*Owner: Leah
+*Date: Feb 2025
+
 import excel "/Users/amye/Library/CloudStorage/OneDrive-Personal/1. Leah's PhD/Quant analysis-Manar/Data for practice.xlsx", sheet("Data") firstrow clear
 
 *browse //81 observations, 16 variable
@@ -120,6 +124,6 @@ list intervention_date in 1/5  //listing 5rows since the data is big
 regress hba1c bmi
 
 
-
+*adding this for git
 
 
